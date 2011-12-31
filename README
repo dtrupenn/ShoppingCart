@@ -1,5 +1,5 @@
 Purpose:
-C implementation of a doubly linked list in the form of a shopping cart
+C implementation of a doubly linked list in the form of a shopping cart. The cart deletes any items that have a negative value and recalculates the proper total for each item.
 
 Instructions:
 run '$ make' to compile files
