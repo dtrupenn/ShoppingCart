@@ -1,0 +1,6 @@
+Purpose:
+C implementation of a doubly linked list in the form of a shopping cart
+
+Instructions:
+run '$ make' to compile files
+to run project use '$ make run' and make sure an output.txt is in the same directory in order for it to properly create shopping cart.
